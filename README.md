@@ -2,7 +2,7 @@
 A program that sorts your google drive using AI
 
 # Problem
-The problem that this project solves is students in distance learning having a disorganized didgital workspace. This project uses Word2Vec, the Google Drive API, and Python to sort the user's files into folders that represent the classes, clubs, and activity that that student is engaged in.
+The problem that this project solves is students in distance learning having a disorganized digital workspace. This project uses Word2Vec, the Google Drive API, and Python to sort the user's files into folders that represent the classes, clubs, and activity that that student is engaged in.
 
 # Installation
 Use the following pip commands to install the required libraries:
